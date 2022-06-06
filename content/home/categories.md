@@ -2,7 +2,7 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
+title: Acces Rapide
 subtitle: Document _anything_ ✨
 feature:
   - icon: book-open
